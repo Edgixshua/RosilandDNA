@@ -1,0 +1,16 @@
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\obj\Debug\RosalindTemplate.csprojResolveAssemblyReference.cache
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\bin\Debug\RosalindTemplate.exe.config
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\bin\Debug\RosalindTemplate.exe
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\bin\Debug\RosalindTemplate.pdb
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\bin\Debug\nunit.framework.dll
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\bin\Debug\nunit.framework.xml
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\obj\Debug\RosalindTemplate.exe
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template\RosalindTemplate\obj\Debug\RosalindTemplate.pdb
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\bin\Debug\RosalindTemplate.exe.config
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\bin\Debug\RosalindTemplate.exe
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\bin\Debug\RosalindTemplate.pdb
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\bin\Debug\nunit.framework.dll
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\bin\Debug\nunit.framework.xml
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\obj\Debug\RosalindTemplate.csprojResolveAssemblyReference.cache
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\obj\Debug\RosalindTemplate.exe
+C:\CodeDojos\Rosalind\CSharp Rolsalind Template - Percentage\RosalindTemplate\obj\Debug\RosalindTemplate.pdb
